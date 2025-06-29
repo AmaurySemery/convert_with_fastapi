@@ -5,7 +5,7 @@ venv/
 
 # Fichiers temporaires
 temp/
-upload/
+uploads/
 outputs/
 __pycache__/
 *.py[cod]

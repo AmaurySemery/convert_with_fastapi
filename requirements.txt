@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+moviepy
+pydub
+watchfiles
+python-multipart

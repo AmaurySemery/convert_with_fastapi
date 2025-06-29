@@ -1,0 +1,40 @@
+# Environnements virtuels
+venv/
+.env
+*.env
+
+# Fichiers temporaires
+temp/
+upload/
+outputs/
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# fichiers OS
+.DS_Store
+Thumbs.db
+
+# fichiers éditeurs
+.vscode/
+.idea/
+
+# Cache
+.cache/
+*.sqlite3
+
+# Tests
+.coverage
+htmlcov/
+.tox/
+pytest_cache/
+
+# FastAPI / Uvicorn
+*.pid
+*.db
+
+# Build
+dist/
+build/
+*.egg-info/
